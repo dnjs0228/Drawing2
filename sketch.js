@@ -1,8 +1,8 @@
 function setup() {
   createCanvas(640, 480);
+  background(99, 2, 2);
   // background(red, green, blue);
-background(99, 2, 2);
-  stroke(99);
+  stroke(255);
   noFill();
 
   line(10, 10, 90, 10); // x1, y1, x2, y2
